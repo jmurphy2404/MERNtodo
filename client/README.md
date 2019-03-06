@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Todo List for Todo App:
+
+Fix mongo issues with heroku deployment (need to use a service)
 
 ## Available Scripts
 
@@ -66,3 +68,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Also owes a debt to Ojini Chizoba Jude and his **Getting Started with the MERN Stack** article on scotch.io.
